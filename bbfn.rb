@@ -17,3 +17,5 @@ puts 'Those who fail to comply will be exterminated!'
 # using (gets.chomp.to_i) will change to an integer.
 #Then you convert back to string in order to continue using the to_s method 
 #see ex above
+
+#ruby bbfn.rb .
